@@ -1,0 +1,41 @@
+/* nothing yet. exciting coming soon */
+.app {
+  background: lightcyan;
+  border-radius: 20px;
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 50px;
+  position: relative;
+  translate: 50%;
+}
+
+.message  {
+}
+
+.message-text {
+  background: #3498db;
+  color: white;
+  padding: 10px 20px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.message-username {
+  background: lightcyan;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.send-message-form {
+  margin: 10px;
+}
+
+.room-list {
+  background: #3498db;
+  border-radius: 10px;
+  display: flex;
+  padding: 5px 5px;
+  margin: 10px 10px;
+}
